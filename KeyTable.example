@@ -1,0 +1,1 @@
+default._domainkey.example.com example.com:default:/var/db/dkim/example.com/default.private
